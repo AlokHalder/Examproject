@@ -1,0 +1,12 @@
+<option value=" "> Select Highest Degree </option>
+<option value="M.Tech">M.Tech</option>
+<option value="B.Tech">B.Tech</option>
+<option value="MCA">MCA</option>
+<option value="M.Sc">M.Sc</option>
+<option value="B.Sc">B.Sc</option>
+<option value="BCA">BCA</option>
+<option value="PGDCA" >PGDCA</option>
+<option value="A-Level">A-Level</option>
+<option value="O-Level" >O-Level</option>
+<option value="B-Level" >B-Level</option>
+<option value="C-Level" >C-Level</option>

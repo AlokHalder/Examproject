@@ -1,0 +1,9 @@
+<option value="">Select Experience</option>
+<option value="Fresher" >Fresher</option>
+<option value="0-6 Month">Zero to six Month</option>
+<option value="Zero to One" >Zero to One</option>
+<option value="One to Two" >One to Two</option>
+<option value="Two to Three" >Two to Three</option>
+<option value="Three to Four" >Three to Four</option>
+<option value="Four to Five" >Four to Five</option>
+<option value="More than Five" >More than Five</option>

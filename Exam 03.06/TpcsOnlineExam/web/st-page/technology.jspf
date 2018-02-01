@@ -1,0 +1,4 @@
+<option value="" >Select Technology</option>
+<option value="java" >J2SE&AMP;J2EE</option>
+<option value=".net" >ASP.NET</option>
+<option value="php" >PHP</option>
